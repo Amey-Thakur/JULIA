@@ -5,9 +5,7 @@
  > [ ] Day 1
  
   - Introduction to Julia (for programmers)
-    
-  Julia is a high-level, high-performance, dynamic programming language.
+
+   Julia is a high-level, high-performance, dynamic programming language.    
 
   - Install Julia and nteract
- 
-  - 
