@@ -1,8 +1,30 @@
 # JULIA
+
+Julia is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
+
+![Julia](https://user-images.githubusercontent.com/54937357/139801295-d201875c-9eea-4e55-94a7-8f592e8363ba.jpg)
+
  
- >[Julia Academy](https://juliaacademy.com)
+  >[Julia Academy](https://juliaacademy.com)
+
+  >[Documentation](https://docs.julialang.org/en/v1/)
+
+  >[Homepage](https://julialang.org)
+
+  >[Binaries](https://julialang.org/downloads)
+
+  >[Source code](https://github.com/JuliaLang/julia)
+
+  >[Packages](https://julialang.org/packages)
+
+  >[Discussion forum](https://discourse.julialang.org)
+
+  >[Slack](https://julialang.slack.com)
+
+  >[YouTube](https://www.youtube.com/user/JuliaLanguage)
+
  
-### 30 Days Julia Challenge
+## 30 Days Julia Challenge
 
  - [ ] Day 1
  - [ ] Day 2
