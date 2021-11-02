@@ -1,5 +1,7 @@
 # JULIA
  
+ >[Julia Academy](https://juliaacademy.com)
+ 
 ### 30 Days Julia Challenge
 
  - [ ] Day 1
