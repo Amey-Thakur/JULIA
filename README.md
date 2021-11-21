@@ -4,7 +4,8 @@ Julia is a high-level, high-performance, dynamic programming language. While it 
 
 ![Julia](https://user-images.githubusercontent.com/54937357/139801295-d201875c-9eea-4e55-94a7-8f592e8363ba.jpg)
 
- 
+ - [Julia on Colab](https://github.com/Amey-Thakur/JULIA/blob/main/JuliaOnColab.ipynb)
+
   >[Julia Academy](https://juliaacademy.com)
 
   >[Documentation](https://docs.julialang.org/en/v1/)
@@ -45,7 +46,7 @@ Julia is a high-level, high-performance, dynamic programming language. While it 
  - [x] Day 17
  - [x] Day 18
  - [x] Day 19
- - [ ] Day 20
+ - [x] Day 20
  - [ ] Day 21
  - [ ] Day 22
  - [ ] Day 23
