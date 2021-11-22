@@ -57,4 +57,3 @@ Julia is a high-level, high-performance, dynamic programming language. While it 
  - [ ] Day 28
  - [ ] Day 29
  - [ ] Day 30
-
