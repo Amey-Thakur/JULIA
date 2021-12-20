@@ -25,7 +25,7 @@ Julia is a high-level, high-performance, dynamic programming language. While it 
   >[YouTube](https://www.youtube.com/user/JuliaLanguage)
 
  
-## 30 Days Julia Challenge
+## 50 Days Julia Challenge
 
  - [x] Day 1
  - [x] Day 2
@@ -57,4 +57,23 @@ Julia is a high-level, high-performance, dynamic programming language. While it 
  - [x] Day 28
  - [x] Day 29
  - [x] Day 30
-
+ - [x] Day 31
+ - [x] Day 32
+ - [x] Day 33
+ - [x] Day 34
+ - [x] Day 35
+ - [x] Day 36
+ - [x] Day 37
+ - [x] Day 38
+ - [x] Day 39
+ - [x] Day 40
+ - [x] Day 41
+ - [x] Day 42
+ - [x] Day 43
+ - [x] Day 44
+ - [x] Day 45
+ - [x] Day 46
+ - [x] Day 47
+ - [x] Day 48
+ - [x] Day 49
+ - [x] Day 50
