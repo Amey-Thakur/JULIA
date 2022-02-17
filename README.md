@@ -8,23 +8,23 @@ Julia is a high-level, high-performance, dynamic programming language. While it 
 
 ---
 
-  >[Julia Academy](https://juliaacademy.com)
+  * [Julia Academy](https://juliaacademy.com)
 
-  >[Documentation](https://docs.julialang.org/en/v1/)
+  * [Documentation](https://docs.julialang.org/en/v1/)
 
-  >[Homepage](https://julialang.org)
+  * [Homepage](https://julialang.org)
 
-  >[Binaries](https://julialang.org/downloads)
+  * [Binaries](https://julialang.org/downloads)
 
-  >[Source code](https://github.com/JuliaLang/julia)
+  * [Source code](https://github.com/JuliaLang/julia)
 
-  >[Packages](https://julialang.org/packages)
+  * [Packages](https://julialang.org/packages)
 
-  >[Discussion forum](https://discourse.julialang.org)
+  * [Discussion forum](https://discourse.julialang.org)
 
-  >[Slack](https://julialang.slack.com)
+  * [Slack](https://julialang.slack.com)
 
-  >[YouTube](https://www.youtube.com/user/JuliaLanguage)
+  * [YouTube](https://www.youtube.com/user/JuliaLanguage)
 
 ---
 
