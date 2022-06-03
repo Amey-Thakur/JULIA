@@ -1,8 +1,7 @@
 # JULIA
+ 👉🏻 Julia is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
 
-Julia is a high-level, high-performance, dynamic programming language. While it is a general-purpose language and can be used to write any application, many of its features are well suited for numerical analysis and computational science.
-
-- [Julia on Colab](https://github.com/Amey-Thakur/JULIA/blob/main/JuliaOnColab.ipynb)
+ - [Julia on Colab](https://github.com/Amey-Thakur/JULIA/blob/main/JuliaOnColab.ipynb)
 
 ![Julia](https://user-images.githubusercontent.com/54937357/139801295-d201875c-9eea-4e55-94a7-8f592e8363ba.jpg)
 
@@ -80,3 +79,9 @@ Julia is a high-level, high-performance, dynamic programming language. While it 
  - [X] Day 48
  - [X] Day 49
  - [X] Day 50
+
+---
+
+<p align="center"> <b> 👉🏻 Created to Learn Julia 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/JULIA', style='color: greenyellow;'> ✌🏻 Back To Repository ✌🏻</p>
