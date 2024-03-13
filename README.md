@@ -29,7 +29,9 @@
 ---
 
 ## 50 Days Julia Challenge
+
 >Challenge successfully completed with [Mega Satish](https://github.com/msatmod)
+ 
  - [X] Day 1
  - [X] Day 2
  - [X] Day 3
