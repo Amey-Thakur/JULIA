@@ -1,0 +1,44 @@
+# Julia
+*.jl.cov
+*.jl.mem
+*.ji
+*.cov
+*.mem
+*.inc
+*.o
+.julia_history
+
+# Manifest files (often ignored for libraries, but could be relevant for applications)
+# Manifest.toml is often kept for exact reproducibility, but basic gitignore ignores it sometimes.
+# I will NOT ignore Manifest.toml here as it is often critical for reproducibility in learning repos.
+# However, I will ignore generated files.
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Files
+*.tmp
+*.bak
+*.sav
+*.old
+~*
