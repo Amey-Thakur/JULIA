@@ -100,6 +100,8 @@ The curriculum is governed by strict **computational science principles**:
 <a name="features"></a>
 ## Curriculum
 
+- [x] Project Entrance &nbsp;&nbsp; [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/ameythakur20/julia) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://github.com/Amey-Thakur/JULIA/blob/main/Julia.ipynb)
+
 The curriculum follows a disciplined 50-Day Challenge architecture, logically distributing 10 core academic folders across the timeline to ensure systematic mastery.
 
 ### Phase 1: Core Fundamentals (Days 1-5)
