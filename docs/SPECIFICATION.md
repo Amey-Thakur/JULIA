@@ -2,7 +2,7 @@
 
 ## Architectural Overview
 
-**Julia Programming Challenge** is a structured, linear progression architecture designed to systematically build computational science and machine learning competency through a rigorous curriculum. The project serves as a comprehensive study into the **Julia Ecosystem**, bridging the gap from foundational syntax to high-performance parallel computing and advanced neural architectures.
+**Julia Programming Challenge** is a structured, linear progression architecture designed to systematically build computational science and machine learning competency through a disciplined curriculum. The project serves as a comprehensive study into the **Julia Ecosystem**, bridging the gap from foundational syntax to high-performance parallel computing and advanced neural architectures.
 
 ### Learning Logic Flow
 
