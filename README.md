@@ -2,8 +2,9 @@
   <a name="readme-top"></a>
   <a href="https://julialang.org">
     <img src="docs/Julia-logo.png" height="55" alt="Julia Logo">
-  </a>
-  <h1 style="margin-block-start: -1px; margin-block-end: 10px;">Julia Programming Challenge</h1>
+  </a><br>
+  <b><font size="6">Julia Programming Challenge</font></b>
+
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
   [![Technology](https://img.shields.io/badge/Technology-Julia%20%7C%20Computational%20Science-9558B2)](https://github.com/Amey-Thakur/JULIA)
