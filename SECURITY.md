@@ -38,4 +38,4 @@ This repository is preserved as a fixed academic and engineering project. Securi
 
 ---
 
-*This document defines the security posture of a finalized Julia programming project.*
+*This document defines the security posture of a finalized Julia programming challenge.*
