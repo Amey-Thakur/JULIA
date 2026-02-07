@@ -105,14 +105,14 @@ The curriculum is governed by strict **computational science principles**:
 The curriculum follows a disciplined 50-Day Challenge architecture, logically distributing 10 core academic folders across the timeline to ensure systematic mastery.
 
 ### Phase 1: Core Fundamentals (Days 1-5)
-- [x] Day 1 - Introduction to Julia (for programmers) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/JULIA/blob/main/Introduction%20to%20Julia%20(for%20programmers)/Introduction%20to%20Julia.ipynb)
+- [x] Day 1 - Introduction to Julia (for programmers)
 - [x] Day 2 - Introduction to Julia (for programmers)
 - [x] Day 3 - Introduction to Julia (for programmers)
 - [x] Day 4 - Getting Started With JuliaAcademy
 - [x] Day 5 - Getting Started With JuliaAcademy
 
 ### Phase 2: Data Engineering (Days 6-20)
-- [x] Day 6 - Introduction to DataFrames.jl (v1.1.1) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/JULIA/blob/main/Introduction%20to%20DataFrames.jl%20(v1.1.1)/1.DataFrames.ipynb)
+- [x] Day 6 - Introduction to DataFrames.jl (v1.1.1)
 - [x] Day 7 - Introduction to DataFrames.jl (v1.1.1)
 - [x] Day 8 - Introduction to DataFrames.jl (v1.1.1)
 - [x] Day 9 - Introduction to DataFrames.jl (v1.1.1)
@@ -129,7 +129,7 @@ The curriculum follows a disciplined 50-Day Challenge architecture, logically di
 - [x] Day 20 - Julia for Data Science
 
 ### Phase 3: Computational Modeling (Days 21-35)
-- [x] Day 21 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/JULIA/blob/main/Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic/JuliaOnColab.ipynb)
+- [x] Day 21 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
 - [x] Day 22 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
 - [x] Day 23 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
 - [x] Day 24 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
