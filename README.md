@@ -8,7 +8,7 @@
   [![Technology](https://img.shields.io/badge/Technology-Julia%20%7C%20Computational%20Science-9558B2)](https://github.com/Amey-Thakur/JULIA)
   [![Developed by Amey Thakur and Mega Satish](https://img.shields.io/badge/Developed%20by-Amey%20Thakur%20%26%20Mega%20Satish-blue.svg)](https://github.com/Amey-Thakur/JULIA)
 
-  A rigorous 50-day collaborative challenge undertaken to master Julia programming, computational modeling, and machine learning, featuring a structured curriculum from basic syntax to high-performance parallel computing and neural architectures.
+  A disciplined 50-day collaborative challenge undertaken to master Julia programming, computational modeling, and machine learning, featuring a structured curriculum from basic syntax to high-performance parallel computing and neural architectures.
 
   **[Curriculum](#features)** &nbsp;·&nbsp; **[Amey's Kaggle](https://www.kaggle.com/ameythakur20)** &nbsp;·&nbsp; **[Mega's Kaggle](https://www.kaggle.com/megasatish)** &nbsp;·&nbsp; **[Certifications](#results)**
 
@@ -45,7 +45,7 @@
 <a name="overview"></a>
 ## Overview
 
-**Julia Programming Challenge** was conceived as a rigorous collaborative initiative between [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod). Driven by a shared objective to master the Julia language, this challenge represents the culmination of a disciplined 50-day coding journey. Through mutual dedication and daily practice, we navigated a curriculum that bridges the gap from foundational logic to advanced computational science, earning recognized certifications as a testament to this scholarly effort.
+**Julia Programming Challenge** was conceived as a disciplined collaborative initiative between [**Amey Thakur**](https://github.com/Amey-Thakur) and [**Mega Satish**](https://github.com/msatmod). Driven by a shared objective to master the Julia language, this challenge represents the culmination of a disciplined 50-day coding journey. Through mutual dedication and daily practice, we navigated a curriculum that bridges the gap from foundational logic to advanced computational science, earning recognized certifications as a testament to this scholarly effort.
 
 The challenge demonstrates a disciplined approach to upskilling in high-performance computing, leveraging the **Julia Ecosystem** (Multiple Dispatch, Flux.jl, DataFrames.jl) to solve complex numerical and analytical problems.
 
@@ -58,7 +58,7 @@ The curriculum is governed by strict **computational science principles**:
 > [!TIP]
 > **Challenge Completion**
 >
-> This repository represents the successful completion of a rigorous **50-Day Coding Challenge**. Challenge successfully completed with [**Mega Satish**](https://github.com/msatmod). Each module corresponds to specific academic milestones, ensuring a nonlinear but verifiable progression of advanced technical skills.
+> This repository represents the successful completion of a disciplined **50-Day Coding Challenge**. Challenge successfully completed with [**Mega Satish**](https://github.com/msatmod). Each module corresponds to specific academic milestones, ensuring a nonlinear but verifiable progression of advanced technical skills.
 
 ---
 
@@ -234,7 +234,7 @@ Navigate to any module directory and execute the `.jl` scripts or open `.ipynb` 
 ## Usage Guidelines
 
 **For Students**
-Utilize this repository as a technical roadmap for mastering the Julia language. The curriculum progression offers a rigorous, measurable pathway to transition from simple scripts to advanced scientific computing.
+Utilize this repository as a technical roadmap for mastering the Julia language. The curriculum progression offers a disciplined, measurable pathway to transition from simple scripts to advanced scientific computing.
 
 **For Researchers**
 Reference these models (especially the COVID-19 simulations and POMDP logic) as a case study in applying Julia's speed and multiple dispatch to solve complex engineering and biological problems.
@@ -268,7 +268,7 @@ This project features **Julia Programming Challenge**, a comprehensive study con
 
 ### Acknowledgments
 
-Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and scholarly partnership during this Julia Programming Challenge. Her intellectual agility, a veritable superpower to rapidly synthesize complex logic and articulate it with clarity, was the driving force behind this project's success. She processed new concepts with remarkable speed, clarifying intricate details in a way that made learning reciprocal and effortless. Her engagement was not merely supportive but vital; this rigorous curriculum would not have been completed without her steady discipline, ability to simplify the complex, and constant encouragement. Thank you, Mega, for everything you shared and taught along the way.
+Grateful acknowledgment to [**Mega Satish**](https://github.com/msatmod) for her exceptional collaboration and scholarly partnership during this Julia Programming Challenge. Her intellectual agility, a veritable superpower to rapidly synthesize complex logic and articulate it with clarity, was the driving force behind this project's success. She processed new concepts with remarkable speed, clarifying intricate details in a way that made learning reciprocal and effortless. Her engagement was not merely supportive but vital; this disciplined curriculum would not have been completed without her steady discipline, ability to simplify the complex, and constant encouragement. Thank you, Mega, for everything you shared and taught along the way.
 
 Special thanks to the **mentors and peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
