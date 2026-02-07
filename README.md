@@ -105,24 +105,24 @@ The curriculum is governed by strict **computational science principles**:
 The curriculum follows a disciplined 50-Day Challenge architecture, logically distributing 10 core academic folders across the timeline to ensure systematic mastery.
 
 ### Phase 1: Core Julia Foundations (Days 1-10)
-- [x] Day 1 - Introduction to Julia (for programmers) &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./Introduction%20to%20Julia%20(for%20programmers))
+- [x] Day 1 - Introduction to Julia (for programmers) &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./Introduction%20to%20Julia%20(for%20programmers))
 - [x] Day 2 - Introduction to Julia (for programmers)
 - [x] Day 3 - Introduction to Julia (for programmers)
 - [x] Day 4 - Introduction to Julia (for programmers)
 - [x] Day 5 - Introduction to Julia (for programmers)
 - [x] Day 6 - Introduction to Julia (for programmers)
 - [x] Day 7 - Introduction to Julia (for programmers)
-- [x] Day 8 - Getting Started With JuliaAcademy &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./Getting%20Started%20With%20JuliaAcademy)
+- [x] Day 8 - Getting Started With JuliaAcademy &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./Getting%20Started%20With%20JuliaAcademy)
 - [x] Day 9 - Getting Started With JuliaAcademy
 - [x] Day 10 - Getting Started With JuliaAcademy
 
 ### Phase 2: Data Engineering & Analytics (Days 11-25)
-- [x] Day 11 - Introduction to DataFrames.jl (v1.1.1) &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./Introduction%20to%20DataFrames.jl%20(v1.1.1))
+- [x] Day 11 - Introduction to DataFrames.jl (v1.1.1) &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./Introduction%20to%20DataFrames.jl%20(v1.1.1))
 - [x] Day 12 - Introduction to DataFrames.jl (v1.1.1)
 - [x] Day 13 - Introduction to DataFrames.jl (v1.1.1)
 - [x] Day 14 - Introduction to DataFrames.jl (v1.1.1)
 - [x] Day 15 - Introduction to DataFrames.jl (v1.1.1)
-- [x] Day 16 - Julia for Data Science &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./Julia%20for%20Data%20Science)
+- [x] Day 16 - Julia for Data Science &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./Julia%20for%20Data%20Science)
 - [x] Day 17 - Julia for Data Science
 - [x] Day 18 - Julia for Data Science
 - [x] Day 19 - Julia for Data Science
@@ -134,32 +134,32 @@ The curriculum follows a disciplined 50-Day Challenge architecture, logically di
 - [x] Day 25 - Julia for Data Science
 
 ### Phase 3: High-Performance Computing (Days 26-30)
-- [x] Day 26 - Parallel Computing &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./Parallel%20Computing)
+- [x] Day 26 - Parallel Computing &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./Parallel%20Computing)
 - [x] Day 27 - Parallel Computing
 - [x] Day 28 - Parallel Computing
 - [x] Day 29 - Parallel Computing
 - [x] Day 30 - Parallel Computing
 
 ### Phase 4: Machine Learning & Neural Architectures (Days 31-42)
-- [x] Day 31 - Foundations of Machine Learning &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./Foundations%20of%20Machine%20Learning)
+- [x] Day 31 - Foundations of Machine Learning &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./Foundations%20of%20Machine%20Learning)
 - [x] Day 32 - Foundations of Machine Learning
 - [x] Day 33 - Foundations of Machine Learning
 - [x] Day 34 - Foundations of Machine Learning
-- [x] Day 35 - Deep Learning with Flux.jl &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./Deep%20Learning%20with%20Flux.jl)
+- [x] Day 35 - Deep Learning with Flux.jl &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./Deep%20Learning%20with%20Flux.jl)
 - [x] Day 36 - Deep Learning with Flux.jl
 - [x] Day 37 - Deep Learning with Flux.jl
 - [x] Day 38 - Deep Learning with Flux.jl
-- [x] Day 39 - The world of Machine Learning with Knet &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./The%20world%20of%20Machine%20Learning%20with%20Knet)
+- [x] Day 39 - The world of Machine Learning with Knet &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./The%20world%20of%20Machine%20Learning%20with%20Knet)
 - [x] Day 40 - The world of Machine Learning with Knet
 - [x] Day 41 - The world of Machine Learning with Knet
 - [x] Day 42 - The world of Machine Learning with Knet
 
 ### Phase 5: Decision Science & Applied Modeling (Days 43-50)
-- [x] Day 43 - Decision Making Under Uncertainty with POMDPs.jl &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./Decision%20Making%20Under%20Uncertainty%20with%20POMDPs.jl)
+- [x] Day 43 - Decision Making Under Uncertainty with POMDPs.jl &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./Decision%20Making%20Under%20Uncertainty%20with%20POMDPs.jl)
 - [x] Day 44 - Decision Making Under Uncertainty with POMDPs.jl
 - [x] Day 45 - Decision Making Under Uncertainty with POMDPs.jl
 - [x] Day 46 - Decision Making Under Uncertainty with POMDPs.jl
-- [x] Day 47 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](./Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic)
+- [x] Day 47 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-181717?logo=GitHub&logoColor=white)](./Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic)
 - [x] Day 48 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
 - [x] Day 49 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
 - [x] Day 50 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
