@@ -216,11 +216,11 @@ JULIA/
   <i>Certified mastery of the core Julia language syntax and paradigms.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20Introduction%20to%20Julia%20(for%20programmers).pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20Introduction%20to%20Julia%20(for%20programmers).pdf" width="48%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20Introduction%20to%20Julia%20(for%20programmers).png" width="48%" alt="Amey Thakur Certificate">
   </a>
   &nbsp;
   <a href="Certificates/Mega%20Satish%20-%20Introduction%20to%20Julia.pdf">
-    <img src="Certificates/Mega%20Satish%20-%20Introduction%20to%20Julia.pdf" width="48%" alt="Mega Satish Certificate">
+    <img src="Certificates/Mega%20Satish%20-%20Introduction%20to%20Julia.png" width="48%" alt="Mega Satish Certificate">
   </a>
   <br><br><br>
 
@@ -229,7 +229,7 @@ JULIA/
   <i>Professional certification for the official JuliaAcademy curriculum.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20Getting%20Started%20With%20JuliaAcademy.pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20Getting%20Started%20With%20JuliaAcademy.pdf" width="97%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20Getting%20Started%20With%20JuliaAcademy.png" width="97%" alt="Amey Thakur Certificate">
   </a>
   <br><br><br>
 
@@ -238,11 +238,11 @@ JULIA/
   <i>Certification for advanced tabular data manipulation and wrangling.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20Introduction%20to%20DataFrames.jl%20(v1.1.1).pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20Introduction%20to%20DataFrames.jl%20(v1.1.1).pdf" width="48%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20Introduction%20to%20DataFrames.jl%20(v1.1.1).png" width="48%" alt="Amey Thakur Certificate">
   </a>
   &nbsp;
   <a href="Certificates/Mega%20Satish%20-%20Introduction%20to%20DataFrames.jl%20(v1.1.1).pdf">
-    <img src="Certificates/Mega%20Satish%20-%20Introduction%20to%20DataFrames.jl%20(v1.1.1).pdf" width="48%" alt="Mega Satish Certificate">
+    <img src="Certificates/Mega%20Satish%20-%20Introduction%20to%20DataFrames.jl%20(v1.1.1).png" width="48%" alt="Mega Satish Certificate">
   </a>
   <br><br><br>
 
@@ -251,11 +251,11 @@ JULIA/
   <i>Certified expertise in Julia-driven data science and analytics.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20Julia%20for%20Data%20Science.pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20Julia%20for%20Data%20Science.pdf" width="48%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20Julia%20for%20Data%20Science.png" width="48%" alt="Amey Thakur Certificate">
   </a>
   &nbsp;
   <a href="Certificates/Mega%20Satish%20-%20Julia%20for%20Data%20Science.pdf">
-    <img src="Certificates/Mega%20Satish%20-%20Julia%20for%20Data%20Science.pdf" width="48%" alt="Mega Satish Certificate">
+    <img src="Certificates/Mega%20Satish%20-%20Julia%20for%20Data%20Science.png" width="48%" alt="Mega Satish Certificate">
   </a>
   <br><br><br>
 
@@ -264,7 +264,7 @@ JULIA/
   <i>Advanced certification for high-performance and parallelized computation.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20Parallel%20Computing.pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20Parallel%20Computing.pdf" width="97%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20Parallel%20Computing.png" width="97%" alt="Amey Thakur Certificate">
   </a>
   <br><br><br>
 
@@ -273,11 +273,11 @@ JULIA/
   <i>Certified mastery of machine learning fundamentals in Julia.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20Foundations%20of%20Machine%20Learning.pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20Foundations%20of%20Machine%20Learning.pdf" width="48%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20Foundations%20of%20Machine%20Learning.png" width="48%" alt="Amey Thakur Certificate">
   </a>
   &nbsp;
   <a href="Certificates/Mega%20Satish%20-%20Foundations%20of%20Machine%20Learning.pdf">
-    <img src="Certificates/Mega%20Satish%20-%20Foundations%20of%20Machine%20Learning.pdf" width="48%" alt="Mega Satish Certificate">
+    <img src="Certificates/Mega%20Satish%20-%20Foundations%20of%20Machine%20Learning.png" width="48%" alt="Mega Satish Certificate">
   </a>
   <br><br><br>
 
@@ -286,11 +286,11 @@ JULIA/
   <i>Advanced certification for neural network architectures using Flux.jl.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20Deep%20Learning%20with%20Flux.jl.pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20Deep%20Learning%20with%20Flux.jl.pdf" width="48%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20Deep%20Learning%20with%20Flux.jl.png" width="48%" alt="Amey Thakur Certificate">
   </a>
   &nbsp;
   <a href="Certificates/Mega%20Satish%20-%20Deep%20Learning%20with%20Flux.jl.pdf">
-    <img src="Certificates/Mega%20Satish%20-%20Deep%20Learning%20with%20Flux.jl.pdf" width="48%" alt="Mega Satish Certificate">
+    <img src="Certificates/Mega%20Satish%20-%20Deep%20Learning%20with%20Flux.jl.png" width="48%" alt="Mega Satish Certificate">
   </a>
   <br><br><br>
 
@@ -299,11 +299,11 @@ JULIA/
   <i>Professional certification for deep learning and neural systems with Knet.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20The%20world%20of%20Machine%20Learning%20with%20Knet.pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20The%20world%20of%20Machine%20Learning%20with%20Knet.pdf" width="48%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20The%20world%20of%20Machine%20Learning%20with%20Knet.png" width="48%" alt="Amey Thakur Certificate">
   </a>
   &nbsp;
   <a href="Certificates/Mega%20Satish%20-%20The%20world%20of%20Machine%20Learning%20with%20Knet.pdf">
-    <img src="Certificates/Mega%20Satish%20-%20The%20world%20of%20Machine%20Learning%20with%20Knet.pdf" width="48%" alt="Mega Satish Certificate">
+    <img src="Certificates/Mega%20Satish%20-%20The%20world%20of%20Machine%20Learning%20with%20Knet.png" width="48%" alt="Mega Satish Certificate">
   </a>
   <br><br><br>
 
@@ -312,7 +312,7 @@ JULIA/
   <i>Specialized certification for stochastic decision modeling using POMDPs.jl.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20Decision%20Making%20Under%20Uncertainty%20with%20POMDPs.jl.pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20Decision%20Making%20Under%20Uncertainty%20with%20POMDPs.jl.pdf" width="97%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20Decision%20Making%20Under%20Uncertainty%20with%20POMDPs.jl.png" width="97%" alt="Amey Thakur Certificate">
   </a>
   <br><br><br>
 
@@ -321,7 +321,7 @@ JULIA/
   <i>Certified application of computational science to global pandemic modeling.</i>
   <br><br>
   <a href="Certificates/Amey%20Thakur%20-%20Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic.pdf">
-    <img src="Certificates/Amey%20Thakur%20-%20Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic.pdf" width="97%" alt="Amey Thakur Certificate">
+    <img src="Certificates/Amey%20Thakur%20-%20Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic.png" width="97%" alt="Amey Thakur Certificate">
   </a>
   <br><br>
 </div>
