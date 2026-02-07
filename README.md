@@ -1,5 +1,5 @@
 <div align="center">
-  <a name="readme-top"></a>
+
   <a name="readme-top"></a>
   # <img src="docs/Julia-logo.png" width="48" height="48" valign="middle"> Julia Programming Challenge
 
