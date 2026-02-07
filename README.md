@@ -1,11 +1,7 @@
 <div align="center">
   <a name="readme-top"></a>
-  <h1 align="center">
-    <a href="https://julialang.org">
-      <img src="docs/Julia-logo.png" height="55" alt="Julia Logo">
-    </a><br>
-    Julia Programming Challenge
-  </h1>
+  <a name="readme-top"></a>
+  # <img src="docs/Julia-logo.png" width="48" height="48" valign="middle"> Julia Programming Challenge
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
   ![Status](https://img.shields.io/badge/Status-Completed-success)
