@@ -9,7 +9,7 @@ header-includes: |
     \usepackage{unicode-math}
 ---
 
-# 6.S083 / 18.S190 Problem set 2: Probability and modelling recovery
+# 6.S083 / 18.S190 Problem set 2: Probability and modeling recovery
 
 ## Submission deadline: 11:59pm on Tuesday, April 14
 
@@ -81,7 +81,7 @@ Make a new version of the `counts` function where you do the following (below). 
 ```
 
 
-### Exercise 2: Modelling recovery
+### Exercise 2: modeling recovery
 
 In this exercise, we will investigate the simple model of recovery from an infection that was described in lectures. We
 want to study the time $\tau$ to recover.

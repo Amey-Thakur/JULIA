@@ -5,7 +5,7 @@
 ||Homeworks|Resources|
 |--|--|--|
 |HW1 |  <ul> <li>[Analyzing Covid-19 Data (md)][md:hw1]</li>  <li>[Analyzing Covid-19 Data (pdf)][pdf:hw1] </li> </ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/) </li></ul>|
-|HW2 |  <ul> <li>[ Probability and modelling recovery (md)][md:hw2]</li>  <li>[Probability and modelling recovery (pdf)][pdf:hw2] </li> </ul>||
+|HW2 |  <ul> <li>[ Probability and modeling recovery (md)][md:hw2]</li>  <li>[Probability and modeling recovery (pdf)][pdf:hw2] </li> </ul>||
 |HW3 |  <ul> <li>[Simple epidemic model (md)][md:hw3]</li>  <li>[Simple epidemic model (pdf)][pdf:hw3] </li> </ul>||
 |HW4 |  <ul> <li>[Spatial epidemic model (md)][md:hw4]</li>  <li>[Spatial epidemic model (pdf)][pdf:hw4] </li> </ul>||
 |HW5 |  <ul> <li>[Scientific Machine Learning (md)][md:hw5]</li>  <li>[Scientific Machine Learning (pdf)][pdf:hw5] </li> </ul>| Due NEXT Tuesday May 12|
@@ -30,22 +30,22 @@
 |Lecture| Slides | Video  | Notebook | Other Resources |
 |--|--|--|--|--|
 | 1. Analyzing covid-19 data <br> (March 30,2020) | <ul><li> [Welcome Slides][welcome]</li><li> [Lecture 1 Slides][1] </li></ul> | <ul> <li> [Welcome Video][video:welcome] </li>  <li> [Data Analysis][video:dataanal] </li> </ul> |  <ul><li>[Exploring Data on Covid-19][notebook:exploring] </li></ul>| <ul>  <li> [Video: 3Blue1Brown:Simulating an Epidemic][res1] </li> <li> [Video: How to Tell If We're Beating COVID-19][res2] </li> <li>   [Blog: COVID-19 in Denmark][res3]</ul> |
- |2. Modelling exponential growth <br> (April 1, 2020) | <ul><li>[Lecture 2 Slides][2]</li></ul>  |<ul><li>  [Lecture 2 Video][video:2] </li></ul> |<ul><li>[Exponential and Logistic Growth][notebook:2]</li></ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/)</li> <li> [xkcd comic "Scenario 4"](https://xkcd.com/2289/) </li> </ul>|
- |3. Probability <br> (April 6, 2020) | <ul><li>[Lecture 3 Slides][3]</li></ul> | <ul> <li> [Lecture 3 Video][video:3] </li></ul> |<ul><li>[Modelling Recovery with Probability][notebook:3]</li></ul>|
+|2. Modeling exponential growth <br> (April 1, 2020) | <ul><li>[Lecture 2 Slides][2]</li></ul>  |<ul><li>  [Lecture 2 Video][video:2] </li></ul> |<ul><li>[Exponential and Logistic Growth][notebook:2]</li></ul>|<ul><li>[Covid-19 Trajectory](https://aatishb.com/covidtrends/)</li> <li> [xkcd comic "Scenario 4"](https://xkcd.com/2289/) </li> </ul>|
+|3. Probability <br> (April 6, 2020) | <ul><li>[Lecture 3 Slides][3]</li></ul> | <ul> <li> [Lecture 3 Video][video:3] </li></ul> |<ul><li>[Modeling Recovery with Probability][notebook:3]</li></ul>|
 |4. Random walk models  <br> (April 8, 2020) | <ul><li>[Lecture 4 Slides][4]</li></ul> | <ul> <li> [Lecture 4 Video][video:4] </li></ul> |<ul><li>[Random Walks][notebook:4]</li></ul>|
- |5. Characterising variability <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][5]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[Variability and custom types][notebook:5]</li></ul>|  <ul> <li> [Covid-19 3 Blue 1 Brown](https://youtu.be/Kas0tIxDvrg)</li></ul>|
+|5. Characterizing variability <br> (April 13,2020)| <ul><li>[Lecture 5 Slides][5]</li></ul> | <ul> <li> [Lecture 5 Video][video:5] </li></ul> |<ul><li>[Variability and custom types][notebook:5]</li></ul>|  <ul> <li> [Covid-19 3 Blue 1 Brown](https://youtu.be/Kas0tIxDvrg)</li></ul>|
 | 6. User-defined types <br> (April 15, 2020) |<ul><li>[Lecture 6 Slides][6]</li></ul> |<ul> <li> [Lecture 6 Video][video:6] </li></ul> | <ul><li>[Defining new types][notebook:6]</li></ul>|  <ul> <li> [Epidemic Calculator](https://gabgoh.github.io/COVID/index.html)</li></ul> |
 |7. Markov Chains and Continuous Random Variables <br> (April 22, 2020) | <ul><li>[Lecture 7 Slides][7]</li></ul> | <ul> <li> [Lecture 7 Video][video:7] </li></ul> | <ul><li>[Markov Chains and Continuous Random Variables][notebook:7]</li></ul>|
 |8. Continuous Time <br> (April 27, 2020) |    <ul><li>[Lecture 8 Slides][8]</li></ul> | <ul> <li> [Lecture 8 Video][video:8] </li></ul> |<ul><li>[ Continuous Time][notebook:8]</li></ul>|  
 |9. Exponential Distribution <br> (April 29, 2020) ||<ul><li> [Lecture 9 Video][video:9]| <ul><li>[Exponential Distribution][notebook:9]|
 |10. Differential Equations <br> (May 4, 2020)|  <ul> <li> [Lecture 10 Notes][10]  </li></ul> |  <ul><li> [Lecture 10 Video][video:10]
  |11. Optimization and fitting to data <br> (May 6, 2020)| <ul> <li> [Lecture 11 Notes][11]  </li></ul> |  <ul><li>  [Lecture 11 Video][video:11]  </li></ul>  |
-|12. Networks in Epidemic Modelling <br> (May 11, 2020) | <ul> <li> [Lecture 12 Notes][12]  </li></ul> |  <ul><li>  [Lecture 12 Video][video:12]  </li></ul>  | <ul><li>[Networks][notebook:12]</li></ul>|  
+|12. Networks in Epidemic Modeling <br> (May 11, 2020) | <ul> <li> [Lecture 12 Notes][12]  </li></ul> |  <ul><li>  [Lecture 12 Video][video:12]  </li></ul>  | <ul><li>[Networks][notebook:12]</li></ul>|  
 
 
 
 [1]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/01.%20Introduction%20to%20Julia.pdf
-[2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modelling.pdf
+[2]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/02.%20Introduction%20to%20modeling.pdf
 [3]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/03.%20Probability.pdf
 [4]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/04.%20Probability%20II%20and%20random%20walks.pdf
 [5]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/05.%20Variability%20and%20custom%20types.pdf
@@ -54,7 +54,7 @@
 [8]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/08.%20Continuous%20random%20variables.pdf
 [10]:https://docs.google.com/presentation/d/1mL1tqBfyAZm2GEM-cIjpeVjr5zNkmXYO5-8mgV-ecVM/edit?usp=sharing
 [11]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/11.%20Optimization%20and%20linear%20regression.pdf
-[12]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/12.%20Networks%20in%20epidemic%20modelling.pdf
+[12]:https://docs.google.com/viewer?url=https://github.com/mitmath/6S083/raw/master/lectures/12.%20Networks%20in%20epidemic%20modeling.pdf
 
 [video:welcome]:https://video.odl.mit.edu/videos/25acbf684dbd4fb18caa694dc1e9cb4a/
 [video:dataanal]:https://video.odl.mit.edu/videos/6fd61898f9c841bfbf79c7163a2c960d/
@@ -72,7 +72,7 @@
 
 [notebook:exploring]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c7e60979a98ea733d144483a296687a6370a333d/lectures/live/01%20-%20Exploring%20COVID-19%20data.ipynb
 [notebook:2]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/02%20-%20Exponential%20and%20logistic%20growth.ipynb
-[notebook:3]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/03%20-%20Modelling%20recovery%20process%20using%20probability.ipynb
+[notebook:3]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/03%20-%20Modeling%20recovery%20process%20using%20probability.ipynb
 [notebook:4]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/04%20-%20Random%20walks.ipynb
 [notebook:5]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/master/lectures/live/05%20-%20Variability%20and%20custom%20types.ipynb
 [notebook:6]:https://nbviewer.jupyter.org/github/mitmath/6S083/blob/c4720cd0e8d96e2991d888a8a21cd41cdc1d46c7/lectures/live/06%20-%20Defining%20new%20types.ipynb

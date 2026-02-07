@@ -12,7 +12,7 @@ header-includes: |
 
 ## Last time
 
-- Modelling
+- modeling
 
 - Dynamics of *deterministic* systems with *deterministic* rules (no randomness)
 
@@ -234,9 +234,9 @@ header-includes: |
 
 - Called a **Bernoulli random variable**
 
-## Modelling recovery
+## modeling recovery
 
-- Let's return to modelling recovery from infection
+- Let's return to modeling recovery from infection
 
 - Recover at each time step with probability $p$
 

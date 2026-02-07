@@ -20,8 +20,8 @@ of the COVID-19 pandemic.
 
 # Lecture 2 (April 1)
 
-We started our discussion of mathematical and computational modelling by asking
-what a model is and isn't and what it is useful for, emphasising that models should
+We started our discussion of mathematical and computational modeling by asking
+what a model is and isn't and what it is useful for, emphasizing that models should
 start off simple and then be made more complicated later.
 
 As a simple model of infection, we used a deterministic model in which there is
@@ -39,7 +39,7 @@ growth with a sigmoid (S)-shaped curve.
 # Lecture 3 (April 6)
 
 We began to discuss the need for **randomness** (or **stochasticity**) in models,
-and saw that we could think of it as representing or modelling unknown information.
+and saw that we could think of it as representing or modeling unknown information.
 
 As an example, we discussed a simple model of recovery from an infection, in which
 a patient has a probability $p$ to recover each day.

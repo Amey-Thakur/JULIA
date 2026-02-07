@@ -12,7 +12,7 @@ header-includes: |
 ---
 
 
-# 2. Introduction to modelling: Exponential and logistic growth
+# 2. Introduction to modeling: Exponential and logistic growth
 
 ## Last time
 - Data analysis of COVID-19 data
@@ -56,7 +56,7 @@ header-includes: |
     - motion of galaxy
 
 
-## Modelling
+## modeling
 
 - What is a **model**?
 
@@ -71,7 +71,7 @@ header-includes: |
 
 - Full system (= world) is too complicated
 
-## Modelling II
+## modeling II
 
 - What is a **model**?
 
@@ -96,13 +96,13 @@ header-includes: |
 
 
 
-## Modelling infections
+## modeling infections
 
 - Let's try to model infection spreading through campus
 
     . . .
 
-- Need to make assumptions to start modelling process
+- Need to make assumptions to start modeling process
 
 - Assumptions must be **explicit**
 
@@ -597,7 +597,7 @@ with $\lambda = f'(x^*)$ (constant).
 
 ## Review
 
-- Modelling allows us to study isolated phenomenon in the computer
+- modeling allows us to study isolated phenomenon in the computer
 
 - Produce data incrementally and store it in a `Vector` using `push!`
 

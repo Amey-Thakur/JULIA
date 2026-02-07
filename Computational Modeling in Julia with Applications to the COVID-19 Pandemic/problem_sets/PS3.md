@@ -21,7 +21,7 @@ We will develop a **stochastic** (probabilistic) model of an infection propagati
 An example of this would be a small school or university in which people are
 constantly moving around and interacting with each other.
 
-As usual, we will make modelling assumptions that allow us to reach the goal as fast and simply as possible.
+As usual, we will make modeling assumptions that allow us to reach the goal as fast and simply as possible.
 
 The model is an **individual-based** or **agent-based** model -- in other words,
 we explicitly keep track of each individual in the population and what their
@@ -31,7 +31,7 @@ other individuals which we do not include in the model (for now).
 
 
 
-## Exercise 1: Modelling the spread of an infection or rumour
+## Exercise 1: modeling the spread of an infection or rumour
 
 In this exercise we will model the spread of an infection or rumour in which
 there is no recovery via a stochastic model, which we will implement in a Monte Carlo
