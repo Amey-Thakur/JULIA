@@ -110,7 +110,7 @@ using your function `trajectory` from Exercise 1.
 
 We now have all of the technology in place to simulate an agent-based model in space!
 
-For simplicity we will impose in the model that there is at most one agent on each site at all times, modelling the fact that two people cannot be in the same place as each other.
+For simplicity we will impose in the model that there is at most one agent on each site at all times, modeling the fact that two people cannot be in the same place as each other.
 
 We thus begin by creating an initial condition for $N$ agents that satisfies this. Later we must make sure that the dynamics also respects this.
 

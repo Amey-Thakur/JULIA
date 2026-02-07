@@ -12,7 +12,7 @@ header-includes:
     \usepackage{unicode-math}
 ---
 
-# 12. Networks in epidemic modelling
+# 12. Networks in epidemic modeling
 
 ## Last time
 
@@ -83,7 +83,7 @@ header-includes:
 
 - How can we represent this on the computer?
 
-## Modelling connectivity
+## modeling connectivity
 
 - Real-world systems often depend on **connectivity**:
 

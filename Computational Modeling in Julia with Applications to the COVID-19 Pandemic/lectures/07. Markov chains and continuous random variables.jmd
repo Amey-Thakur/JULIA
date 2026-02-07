@@ -33,7 +33,7 @@ header-includes: |
 
 ## Markov chains
 
-- Let's think back to modelling recovery:
+- Let's think back to modeling recovery:
 
 - At each step, with probability $p$ you recover
 

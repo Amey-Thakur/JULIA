@@ -2,7 +2,7 @@
 
 This document contains step-by-step instructions to install the Julia language, together with the necessary additional tools / environments that we will use in the course.
 
-Please follow the instructions carefully and one by one. You should be able to copy and paste from this document; otherwise you must be careful to use the correct capitalisation, e.g. `IJulia`, not `Ijulia` or `ijulia`.
+Please follow the instructions carefully and one by one. You should be able to copy and paste from this document; otherwise you must be careful to use the correct capitalization, e.g. `IJulia`, not `Ijulia` or `ijulia`.
 
 ## 1. Install Julia
 

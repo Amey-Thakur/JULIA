@@ -52,7 +52,7 @@ header-includes: |
 
 - Random motion: Random walks
 
-- Characterising variability
+- characterizing variability
 
 
 
@@ -76,7 +76,7 @@ header-includes: |
     - Mathematics -- fundamental random process
 
 ---
-## Modelling random motion: Random walk
+## modeling random motion: Random walk
 
 - Expensive to simulate collisions of many particles
 
