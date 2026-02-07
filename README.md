@@ -100,25 +100,28 @@ The curriculum is governed by strict **computational science principles**:
 
 The curriculum is structured into **10 academic modules**, each focusing on a critical pillar of Julia's computational capabilities.
 
+### Challenge Architecture
+- [x] **Project Entrance** (Interactive Roadmap) &nbsp;&nbsp; [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/ameythakur20/julia) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://github.com/Amey-Thakur/JULIA/blob/main/Julia.ipynb)
+
 ### Foundational Julia
 - [x] **Module 1** - Introduction to Julia (for programmers) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/JULIA/blob/main/Introduction%20to%20Julia%20(for%20programmers)/Introduction%20to%20Julia.ipynb)
-- [x] **Module 2** - Getting Started With JuliaAcademy &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](https://juliaacademy.com/courses/getting-started-with-julia)
+- [x] **Module 2** - Getting Started With JuliaAcademy
 
 ### Data Engineering & Science
 - [x] **Module 3** - Introduction to DataFrames.jl (v1.1.1) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/JULIA/blob/main/Introduction%20to%20DataFrames.jl%20(v1.1.1)/1.DataFrames.ipynb)
-- [x] **Module 4** - Julia for Data Science &nbsp;&nbsp; [![Curriculum](https://img.shields.io/badge/Curriculum-9558B2?logo=Julia&logoColor=white)](https://github.com/Amey-Thakur/JULIA/tree/main/Julia%20for%20Data%20Science)
+- [x] **Module 4** - Julia for Data Science
 
 ### Computational Modeling
 - [x] **Module 5** - Computational Modeling in Julia (COVID-19 Pandemic) &nbsp;&nbsp; [![Colab](https://img.shields.io/badge/Colab-F9AB00?logo=Google-Colab&logoColor=white)](https://colab.research.google.com/github/Amey-Thakur/JULIA/blob/main/Computational%20Modeling%20in%20Julia%20with%20Applications%20to%20the%20COVID-19%20Pandemic/JuliaOnColab.ipynb)
-- [x] **Module 6** - Parallel Computing &nbsp;&nbsp; [![Performance](https://img.shields.io/badge/Performance-276DC3?logo=R&logoColor=white)](https://github.com/Amey-Thakur/JULIA/tree/main/Parallel%20Computing)
+- [x] **Module 6** - Parallel Computing
 
 ### Machine Learning & Neural Networks
-- [x] **Module 7** - Foundations of Machine Learning &nbsp;&nbsp; [![Source](https://img.shields.io/badge/Source-4285F4?logo=Google&logoColor=white)](https://juliaacademy.com/courses/machine-learning)
-- [x] **Module 8** - Deep Learning with Flux.jl &nbsp;&nbsp; [![DeepLearning](https://img.shields.io/badge/Deep%20Learning-Flux-white)](https://fluxml.ai/Flux.jl/stable/)
-- [x] **Module 9** - The world of Machine Learning with Knet &nbsp;&nbsp; [![Knet](https://img.shields.io/badge/ML-Knet-red)](https://github.com/denizyuret/Knet.jl)
+- [x] **Module 7** - Foundations of Machine Learning
+- [x] **Module 8** - Deep Learning with Flux.jl
+- [x] **Module 9** - The world of Machine Learning with Knet
 
 ### Advanced Applied Julia
-- [x] **Module 10** - Decision Making Under Uncertainty with POMDPs.jl &nbsp;&nbsp; [![POMDPs](https://img.shields.io/badge/Logic-POMDPs-blue)](https://github.com/JuliaPOMDP/POMDPs.jl)
+- [x] **Module 10** - Decision Making Under Uncertainty with POMDPs.jl
 
 > [!NOTE]
 > ### Technical Depth
