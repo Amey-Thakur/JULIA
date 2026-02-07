@@ -104,63 +104,65 @@ The curriculum is governed by strict **computational science principles**:
 
 The curriculum follows a disciplined 50-Day Challenge architecture, logically distributing 10 core academic folders across the timeline to ensure systematic mastery.
 
-### Phase 1: Core Fundamentals (Days 1-5)
+### Phase 1: Core Julia Foundations (Days 1-10)
 - [x] Day 1 - Introduction to Julia (for programmers)
 - [x] Day 2 - Introduction to Julia (for programmers)
 - [x] Day 3 - Introduction to Julia (for programmers)
-- [x] Day 4 - Getting Started With JuliaAcademy
-- [x] Day 5 - Getting Started With JuliaAcademy
+- [x] Day 4 - Introduction to Julia (for programmers)
+- [x] Day 5 - Introduction to Julia (for programmers)
+- [x] Day 6 - Introduction to Julia (for programmers)
+- [x] Day 7 - Introduction to Julia (for programmers)
+- [x] Day 8 - Getting Started With JuliaAcademy
+- [x] Day 9 - Getting Started With JuliaAcademy
+- [x] Day 10 - Getting Started With JuliaAcademy
 
-### Phase 2: Data Engineering (Days 6-20)
-- [x] Day 6 - Introduction to DataFrames.jl (v1.1.1)
-- [x] Day 7 - Introduction to DataFrames.jl (v1.1.1)
-- [x] Day 8 - Introduction to DataFrames.jl (v1.1.1)
-- [x] Day 9 - Introduction to DataFrames.jl (v1.1.1)
-- [x] Day 10 - Introduction to DataFrames.jl (v1.1.1)
-- [x] Day 11 - Julia for Data Science
-- [x] Day 12 - Julia for Data Science
-- [x] Day 13 - Julia for Data Science
-- [x] Day 14 - Julia for Data Science
-- [x] Day 15 - Julia for Data Science
+### Phase 2: Data Engineering & Analytics (Days 11-25)
+- [x] Day 11 - Introduction to DataFrames.jl (v1.1.1)
+- [x] Day 12 - Introduction to DataFrames.jl (v1.1.1)
+- [x] Day 13 - Introduction to DataFrames.jl (v1.1.1)
+- [x] Day 14 - Introduction to DataFrames.jl (v1.1.1)
+- [x] Day 15 - Introduction to DataFrames.jl (v1.1.1)
 - [x] Day 16 - Julia for Data Science
 - [x] Day 17 - Julia for Data Science
 - [x] Day 18 - Julia for Data Science
 - [x] Day 19 - Julia for Data Science
 - [x] Day 20 - Julia for Data Science
+- [x] Day 21 - Julia for Data Science
+- [x] Day 22 - Julia for Data Science
+- [x] Day 23 - Julia for Data Science
+- [x] Day 24 - Julia for Data Science
+- [x] Day 25 - Julia for Data Science
 
-### Phase 3: Computational Modeling (Days 21-35)
-- [x] Day 21 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
-- [x] Day 22 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
-- [x] Day 23 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
-- [x] Day 24 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
-- [x] Day 25 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
-- [x] Day 26 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
-- [x] Day 27 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
-- [x] Day 28 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
+### Phase 3: High-Performance Computing (Days 26-30)
+- [x] Day 26 - Parallel Computing
+- [x] Day 27 - Parallel Computing
+- [x] Day 28 - Parallel Computing
 - [x] Day 29 - Parallel Computing
 - [x] Day 30 - Parallel Computing
-- [x] Day 31 - Parallel Computing
-- [x] Day 32 - Parallel Computing
-- [x] Day 33 - Parallel Computing
-- [x] Day 34 - Parallel Computing
-- [x] Day 35 - Parallel Computing
 
-### Phase 4: Machine Learning and Artificial Intelligence (Days 36-50)
-- [x] Day 36 - Foundations of Machine Learning
-- [x] Day 37 - Foundations of Machine Learning
-- [x] Day 38 - Foundations of Machine Learning
-- [x] Day 39 - Foundations of Machine Learning
-- [x] Day 40 - Deep Learning with Flux.jl
-- [x] Day 41 - Deep Learning with Flux.jl
-- [x] Day 42 - Deep Learning with Flux.jl
-- [x] Day 43 - Deep Learning with Flux.jl
-- [x] Day 44 - The world of Machine Learning with Knet
-- [x] Day 45 - The world of Machine Learning with Knet
-- [x] Day 46 - The world of Machine Learning with Knet
-- [x] Day 47 - Decision Making Under Uncertainty with POMDPs.jl
-- [x] Day 48 - Decision Making Under Uncertainty with POMDPs.jl
-- [x] Day 49 - Decision Making Under Uncertainty with POMDPs.jl
-- [x] Day 50 - Decision Making Under Uncertainty with POMDPs.jl
+### Phase 4: Machine Learning & Neural Architectures (Days 31-42)
+- [x] Day 31 - Foundations of Machine Learning
+- [x] Day 32 - Foundations of Machine Learning
+- [x] Day 33 - Foundations of Machine Learning
+- [x] Day 34 - Foundations of Machine Learning
+- [x] Day 35 - Deep Learning with Flux.jl
+- [x] Day 36 - Deep Learning with Flux.jl
+- [x] Day 37 - Deep Learning with Flux.jl
+- [x] Day 38 - Deep Learning with Flux.jl
+- [x] Day 39 - The world of Machine Learning with Knet
+- [x] Day 40 - The world of Machine Learning with Knet
+- [x] Day 41 - The world of Machine Learning with Knet
+- [x] Day 42 - The world of Machine Learning with Knet
+
+### Phase 5: Decision Science & Applied Modeling (Days 43-50)
+- [x] Day 43 - Decision Making Under Uncertainty with POMDPs.jl
+- [x] Day 44 - Decision Making Under Uncertainty with POMDPs.jl
+- [x] Day 45 - Decision Making Under Uncertainty with POMDPs.jl
+- [x] Day 46 - Decision Making Under Uncertainty with POMDPs.jl
+- [x] Day 47 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
+- [x] Day 48 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
+- [x] Day 49 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
+- [x] Day 50 - Computational Modeling in Julia with Applications to the COVID-19 Pandemic
 
 > [!NOTE]
 > ### Technical Depth
