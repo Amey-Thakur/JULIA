@@ -1,43 +1,40 @@
-# Standardized Git Attributes for Scholarly Archiving
-
-# Handle line endings automatically for files detected as text
-# and perform LF normalization on checkin.
-* text=auto eol=lf
-
-# Explicitly mark source files as text
-*.jl text
-*.ipynb text
-*.md text
-*.txt text
-*.toml text
-
-# Mark binary files
-*.jpg binary
-*.png binary
-*.gif binary
-*.ico binary
-*.pdf binary
-
 # LINGUIST OPTIMIZATION - NUCLEAR FORCE 100% JULIA
-*.ipynb linguist-language=Julia
-*.ipynb linguist-detectable=true
+# Force Julia logic to be the ONLY thing detected
 *.jl linguist-language=Julia
 *.jl linguist-detectable=true
+*.ipynb linguist-language=Julia
+*.ipynb linguist-detectable=true
+*.jmd linguist-language=Julia
+*.jmd linguist-detectable=true
 
-# Force Julia dominance by HIDING all HTML and exports
+# Mark HUGE assets (HTML, PDFs, binary) as generated/vendored to hide them
 "**/*.html" linguist-generated
 "**/*.html" -linguist-detectable
 "**/*.html" linguist-vendored
 
-# Hide non-core assets
-"Certificates/**" linguist-vendored
+"**/*.pdf" linguist-generated
+"**/*.pdf" -linguist-detectable
+"**/*.pdf" linguist-vendored
+
+# Hide high-volume non-code directories
+"Certificates/**" linguist-generated
 "Certificates/**" -linguist-detectable
-"Mega/**" linguist-vendored
+"Mega/**" linguist-generated
 "Mega/**" -linguist-detectable
 "docs/**" linguist-documentation
 "docs/**" -linguist-detectable
 
-# Ensure README and other documents are correctly handled
+# Ensure non-code extensions don't capture statistics
+*.png linguist-vendored
+*.png -linguist-detectable
+*.jpg linguist-vendored
+*.jpg -linguist-detectable
+*.gif linguist-vendored
+*.gif -linguist-detectable
+*.svg linguist-vendored
+*.svg -linguist-detectable
+
+# Scholarly metadata
 *.md linguist-documentation
 *.cff linguist-documentation
 codemeta.json linguist-documentation
