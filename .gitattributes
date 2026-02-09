@@ -18,6 +18,26 @@
 *.ico binary
 *.pdf binary
 
-# Academic/Scholarly classification
+# LINGUIST OPTIMIZATION - NUCLEAR FORCE 100% JULIA
+*.ipynb linguist-language=Julia
+*.ipynb linguist-detectable=true
+*.jl linguist-language=Julia
+*.jl linguist-detectable=true
+
+# Force Julia dominance by HIDING all HTML and exports
+"**/*.html" linguist-generated
+"**/*.html" -linguist-detectable
+"**/*.html" linguist-vendored
+
+# Hide non-core assets
+"Certificates/**" linguist-vendored
+"Certificates/**" -linguist-detectable
+"Mega/**" linguist-vendored
+"Mega/**" -linguist-detectable
+"docs/**" linguist-documentation
+"docs/**" -linguist-detectable
+
+# Ensure README and other documents are correctly handled
 *.md linguist-documentation
-*.ipynb linguist-documentation
+*.cff linguist-documentation
+codemeta.json linguist-documentation
