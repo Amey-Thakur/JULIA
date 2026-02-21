@@ -369,7 +369,7 @@ Navigate to any module directory and execute the `.jl` scripts or open `.ipynb` 
 >
 > Experience the complete **50-Day Julia Programming Challenge** ecosystem. This repository serves as a scholarly gateway that orchestrates the month-long implementation of high-performance milestones, providing a visual demonstration of skill evolution, credential validation, and featured project integration across the modern computational AI landscape.
 >
-> [Explore Julia Technical Specifications](./docs/SPECIFICATION.md)
+> [Launch Interactive Portfolio on GitHub Pages](https://Amey-Thakur.github.io/JULIA/)
 
 
 ---
