@@ -364,6 +364,14 @@ julia --project=. -e 'using Pkg; Pkg.instantiate()'
 ### 3. Execution
 Navigate to any module directory and execute the `.jl` scripts or open `.ipynb` notebooks via IJulia.
 
+> [!TIP]
+> ### Julia HPC Academy | High-Performance Portfolio Hub
+>
+> Experience the complete **50-Day Julia Programming Challenge** ecosystem. This repository serves as a scholarly gateway that orchestrates the month-long implementation of high-performance milestones, providing a visual demonstration of skill evolution, credential validation, and featured project integration across the modern computational AI landscape.
+>
+> [Explore Julia Technical Specifications](./docs/SPECIFICATION.md)
+
+
 ---
 
 <!-- USAGE GUIDELINES -->
