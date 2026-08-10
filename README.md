@@ -11,10 +11,6 @@
 
   **[Curriculum](#features)** &nbsp;·&nbsp; **[Amey's Kaggle](https://www.kaggle.com/ameythakur20)** &nbsp;·&nbsp; **[Mega's Kaggle](https://www.kaggle.com/megasatish)** &nbsp;·&nbsp; **[Certifications](#results)**
 
-  <br>
-
-  <img src=".github/social-preview.png" alt="Julia Programming Challenge" width="90%">
-
 </div>
 
 ---
