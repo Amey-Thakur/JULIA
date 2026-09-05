@@ -1,0 +1,46 @@
+# <img src="docs/Julia-logo.png" width="48" height="48" valign="middle"> Julia Programming Challenge
+
+> 50-Day Julia Programming Challenge by Amey Thakur and Mega Satish, focused
+> on computational modeling, high-performance computing, and machine
+> learning.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 21 August 2021
+
+## What is in this repository
+
+- Certificates, 32 files
+- Computational Modeling in Julia with Applications to the COVID-19 Pandemic, 51 files
+- Decision Making Under Uncertainty with POMDPs.jl, 36 files
+- Deep Learning with Flux.jl, 5 files
+- Foundations of Machine Learning, 12 files
+- Getting Started With JuliaAcademy, 1 file
+- Introduction to DataFrames.jl (v1.1.1), 10 files
+- Introduction to Julia (for programmers), 26 files
+- Julia for Data Science, 28 files
+- Mega, 6 files
+- Parallel Computing, 10 files
+- The world of Machine Learning with Knet, 38 files
+- docs, 2 files
+- Julia.ipynb
+- JuliaOnColab.ipynb
+
+## Subject terms
+
+50-days-of-code, computational-science, data-science,
+data-science-learning, deep-learning, deep-learning-tutorial, flux-jl,
+high-performance-computing, julia, julia-language, julia-programming,
+julia-programming-language, julialang, machine-learning,
+parallel-computing
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/JULIA
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://github.com/msatmod/Julia
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
